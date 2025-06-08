@@ -1,12 +1,13 @@
-streamlit
 numpy
+Cython
+setuptools
 pandas
 scikit-learn
 torch
 matplotlib
 seaborn
-streamlit
 joblib
-pmdarima
-xgboost
 statsmodels
+xgboost
+streamlit
+pmdarima
